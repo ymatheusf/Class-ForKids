@@ -1,4 +1,6 @@
 # Class-ForKids
+Versão 1.0
+
 
 Instalação Necessarias:
 npm Install
