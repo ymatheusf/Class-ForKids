@@ -10,7 +10,7 @@ npm install react-native-reanimated react-native-gesture-handler react-native-sc
 
 
 
-Vide de Apresentação =>https://youtu.be/PyHlQA7cGF0
+Vide de Apresentação =>https://youtu.be/11ut_ZId1js
 
 O projeto ta bem básico ainda, onde na tela inicial tem o cadastrar ou entrar, se já tiver conta 
 só colocar em entrar, e o projeto consiste em duas etapas onde tem os assuntos de matematica e na outra os
